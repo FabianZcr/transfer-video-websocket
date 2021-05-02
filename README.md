@@ -20,6 +20,6 @@ python client.py
 ### Program demo:
 
 <div class="row" align="center">
-  <img src="./doc/server.jpeg" width="600" height="400" />
-  <img src="./doc/client.jpeg" width="600" height="400" />
+  <img src="./doc/server.jpeg" width="400" height="300" />
+  <img src="./doc/client.jpeg" width="400" height="300" />
 </div>
