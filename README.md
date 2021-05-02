@@ -17,6 +17,6 @@ python client.py
 ```
 ### Program demo:
 
-<div class="row" align="center" border-radius="20px">
+<div class="row" align="center">
   <img src="./doc/demo.jpeg" width="100%" />
 </div>
