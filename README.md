@@ -2,11 +2,11 @@
 ### <div align="center">TCP/IP Program using websockets for transfer video in real time. :fire:</div>
 
 <div class="row" align="center">
-  <img src="./doc/server.png" width="600" height="400" />
+  <img src="./doc/server.jpeg" width="600" height="400" />
 </div>
 
 <div class="row" align="center">
-  <img src="./doc/client.png" width="600" height="400" />
+  <img src="./doc/client.jpeg" width="600" height="400" />
 </div>
 
 
