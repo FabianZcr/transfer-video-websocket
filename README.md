@@ -2,10 +2,16 @@
 ### TCP/IP Program using websockets for transfer video in real time.
 
 **Requirements:**
-```pip install moviepy```
+```
+pip install moviepy
+```
 
 **Run server:**
-```python server.py```
+```
+python server.py
+```
 
 **Run client:**
-```python client.py```
+```
+python client.py
+```
