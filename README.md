@@ -18,5 +18,5 @@ python client.py
 ### Program demo:
 
 <div class="row" align="center">
-  <img src="./doc/demo.jpeg" height="600" />
+  <img src="./doc/demo.jpeg" width="600" />
 </div>
