@@ -18,6 +18,6 @@ python client.py
 ### Program demo:
 
 <div class="row" align="center">
-  <img src="./doc/server.jpeg" height="200" />
-  <img src="./doc/client.jpeg" height="200" />
+  <img src="./doc/server.jpeg" height="250" />
+  <img src="./doc/client.jpeg" height="250" />
 </div>
