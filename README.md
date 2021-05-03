@@ -21,4 +21,4 @@ python client.py
   <img src="./doc/demo.jpeg" width="100%" />
 </div>
 
-https://img.shields.io/apm/l/vim-mode
+
