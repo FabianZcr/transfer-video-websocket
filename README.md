@@ -20,6 +20,6 @@ python client.py
 ```
 ### Program demo:
 
-<div class="row" align="center" style="border-radius: 20px;">
-  <img src="./doc/demo.jpeg" width="100%" />
+<div class="row" align="center">
+  <img src="./doc/demo.jpeg" style="border-radius: 20px;" width="100%" />
 </div>
