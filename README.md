@@ -23,3 +23,4 @@ python client.py
 
 
 <img alt="APM" src="https://img.shields.io/apm/l/vim-mode">
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman">
